@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Getting a driver license as a foreigner"
+categories: driver license
+---
+For those of us who came to the US as a non-resident alien, I'm sure it'll forever be a memorable experience.  Aside from the initial shock of landing in a city that looked nothing like what you imagined, settling down into life in the US could be a whole new adventure in itself.  One of the most important piece of document you need is a driver license because it's your de facto ID card in the US regardless of whether you have a car.  For those that came to the US as college students, its also the ID you need to show at bars or clubs to prove you're 21 or older before they serve you alcohol.  You can get a driver license at a local DMV (Department of Motor Vehicles) and the process vary slightly from state to state so make sure to look up the application process for your state before going.  Also note that most (if not all) DMV do not accept credit card so best bring enough cash with you.
+
+In every state, you will be expected to pass a vision exam, a written test, and obviously the driving test.  The tricky part was that you needed to bring your own car to the driving test.  I've always thought that didn't make sense because it was a bit of a chicken and egg problem for me at first.  To get a driver license, I needed a car but I couldn't buy a car without a driver license.  Fortunately a good friend of mine let me borrow his car to practice on.  We used to go driving late at night on roads with little traffic just to get acquainted with the roads in the US.  That really helped for the driving test.  I happen to grow up in a country where stop signs were almost non-existent and if there was one, people will most likely ignore it.  It's good to know before taking the driving test that when you see a stop sign, you STOP!  Quite simple really but it still took me a while to drill that into my basic instinct.
+
+Once you have your driver license, you're 90% done with settling down in the US.  For most people, the next step would be time to shop for a car!
