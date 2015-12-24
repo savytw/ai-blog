@@ -60,6 +60,5 @@ _AutoTrader_
 AutoTrader takes a more a la carte approach to car selling compared to Cars.com.  Packages range from $25 - $100 but you can buy add on features like ads on kbb.com, premium listing, AutoCheck report, etc.  I would recommend going with the standard package at $25 and add on "run till it sells" for another $25.  It's worth running your ad for as long as possible because selling a car takes an average of 2 - 3 months.
 
 
-
 [cars]: https://www.cars.com/
 [autotrader]: http://www.autotrader.com/
