@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 body_class: post-template
 ---
 {% if page.image %}
@@ -33,6 +34,7 @@ body_class: post-template
       </a>
     </menu>
 
+    {% include comments.html %}
 
     {% include footer.html %}
 
