@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Download AutoInsight app to help you shop for used cars.  Get VinAudit history report, 
   car appraisal, and diagnose your car while you test drive.  Know your car before you buy it!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://autoinsight.io" # the base hostname & protocol for your site
+url: "https://blog.autoinsight.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
