@@ -14,6 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   car appraisal, and diagnose your car while you test drive.  Know your car before you buy it!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.autoinsight.io" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title.html
 twitter_username: jekyllrb
 github_username:  jekyll
 

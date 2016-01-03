@@ -2,7 +2,7 @@
 layout: post
 title:  "AutoTrader vs Cars.com"
 image: autotrader-vs-cars.jpg
-categories: buy used car
+categories: [Autotrader, cars.com, buy used car]
 ---
 Anyone shopping for a car will most likely use both [Autotrader][autotrader] and [Cars.com][cars].  Both sites provide you a wealth of resources for you to buy, sell, or trade in your car.  Largely there's not much of a difference between the two so you can't go wrong by going with either one.  Having said that, let's look at some differences that may matter to you as a potential car buyer.
 

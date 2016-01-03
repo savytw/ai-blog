@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting a driver license as a foreigner"
 image: getting-a-driver-license-as-foreigner.jpg
-categories: driver license
+categories: [driver license]
 ---
 For those of us who came to the US as a non-resident alien, I'm sure it'll forever be a memorable experience.  Aside from the initial shock of landing in a city that looked nothing like what you imagined, settling down into life in the US could be a whole new adventure in itself.  One of the most important piece of document you need is a driver license because it's your de facto ID card in the US regardless of whether you have a car.  For those that came to the US as college students, its also the ID you need to show at bars or clubs to prove you're 21 or older before they serve you alcohol.  You can get a driver license at a local DMV (Department of Motor Vehicles) and the process vary slightly from state to state so make sure to look up the application process for your state before going.  Also note that most (if not all) DMV do not accept credit card so best bring enough cash with you.
 
