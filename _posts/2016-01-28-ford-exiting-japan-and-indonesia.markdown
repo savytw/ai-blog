@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ford exiting Japan and Indonesia"
-categories: [Ford, buy used car]
+categories: Ford
 ---
 Ford [announced][wsj] this week that they will close operations in Japan and Indonesia and that they sold just over 11,000 vehicles in the two markets in 2015.  That number is just so baffling low to me considering that Ford sold [25,576][autosales] Fusion in December 2015 alone in the US!  How can they not even sell more than 20,000 vehicles in a year in two markets that have a combined population of over 370 million people?!
 
