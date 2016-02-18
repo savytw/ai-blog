@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "TrueCar good or bad"
+image: truecar-good-or-bad.jpg
 categories: [TrueCar, buy used car]
 ---
 Happy new year!  2015 shaped up to be a [record breaking year][forbes] for auto sales with 17.5 million cars and trucks sold.  With low loan rates and cheap gasoline price, 2016 will likely be another great year to get yourself a new set of wheels!  Without further ado, here's a great car buying tip to start off the year.  If you haven't checked out [Truecar.com][truecar], you probably should.  They provide data on what others have paid for a make and model of car in your area.  It brings price transparency to an otherwise opaque car buying market.  

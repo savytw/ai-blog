@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Questions to ask seller when buying a second hand car"
+image: questions-to-ask-seller-when-buying-second-hand-car.jpg
 categories: [buy used car]
 ---
 When we buy a used car, we know we have to check out the history report, inspect the car and test drive it.  That's pretty much drilled into anybody with a common sense.  One thing that most people don't consciously prepare for when buying a second hand car is the conversation with the seller which is probably just as important in the process of evaluating a car.  I've accompanied some friends before to meet with car buyers and I was surprised at how many of them don't ask much of any questions at all.  Here are a few questions you need to make sure to ask and some comments on what kind of answer you're looking for.  

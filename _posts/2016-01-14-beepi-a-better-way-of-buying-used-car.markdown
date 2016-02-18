@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Beepi, a better way of buying used car?"
+image: beepi-a-better-way-of-buying-used-car.jpg
 categories: [Beepi, buy used car]
 ---
 [Beepi][beepi] is a new kind of marketplace for users to buy and sell used cars.  Essentially Beepi acts as a car dealer but with no physical storefront.  They aim to help sellers sell for more and buyers pay for less without all the hassle of a car transaction.  You can read more about how the process work [here][howitwork].  As a used car buyer, this sounds like a great preposition.  Buy a car for less without having to negotiate with car dealers, have the car delivered to your doorstep, and have all the paperwork taken care of for you!  

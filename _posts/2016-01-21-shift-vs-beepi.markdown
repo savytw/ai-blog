@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Shift vs Beepi"
+image: shift-vs-beepi.jpg
 categories: [Shift, buy used car]
 ---
 [Shift][shift] is another one of the new kind of marketplace for users to buy and sell used cars similar to [Beepi][beepi].  On a high level, you may be excused if you think Shift is just another Beepi or vice versa.  They have the same value proposition, help sellers sell for more and buyers pay for less without all the hassle of a car transaction. However, they actually have very different business model.  Here are the major differences between them that customers need to be aware of.
