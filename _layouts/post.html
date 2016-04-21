@@ -116,5 +116,8 @@ $(function(){
     return false;
   });
 });
+
+mixpanel.track('Visit Page',
+  { pageTitle: '{{ page.title }}'});
 </script>
 
